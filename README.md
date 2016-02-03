@@ -1,2 +1,2 @@
 # hello-world
-Hello-word repository. Learning to use github.
+Hello-world repository. Learning to use github.
